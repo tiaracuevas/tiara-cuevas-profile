@@ -1,0 +1,130 @@
+.navbar{
+    background-color: rgba(64, 224, 208, 0.541) !important;
+    font-family: 'Raleway', sans-serif;
+    font: gray !important;
+}
+
+.navbar-brand{
+    color: gray !important
+}
+
+.nav-link{
+    color: gray !important
+}
+
+.navbar-toggler{
+    color: gray !important
+}
+
+.navbar-toggler-icon{
+    color: gray !important
+}
+
+#about-me{
+    background-color: rgba(64, 224, 208, 0.541);
+    padding: 50px;
+    color: gray
+    
+}
+
+#highlighted-projects{
+    background-color: rgba(255, 182, 193, 0.418);
+    padding: 50px;
+}
+
+#connect{
+    background-color: silver;
+    padding: 50px;
+}
+
+.fab{
+    color: white;
+    padding: 20px;
+}
+
+.carousel-inner img {
+    margin: auto;
+  }
+
+.margin {
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    font-size: 38px
+
+}
+
+.margin-name{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    
+}
+
+.body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn{
+    color: gray !important;
+    background-color: white;
+    margin-top: 15px;
+    
+}
+
+.bio{
+    padding-top: 15px
+}
+
+.projects{
+    color: gray
+}
+
+#portfolio-navbar{
+    background-color: rgba(255, 182, 193, 0.418) !important;
+    font-family: 'Raleway', sans-serif;
+    font: gray !important;
+}
+
+#project-page{
+    background-color: rgba(255, 182, 193, 0.418)
+}
+
+.project-description{
+    font-size: 12px;
+    font-family: 'Open Sans', sans-serif;
+    color: gray
+}
+
+.project-title{
+    font-family: 'Raleway', sans-serif;
+    color: gray
+}
+
+.margin-all-projects{
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    padding: 20px;
+    font-size: 60px
+}
+
+.img-project{
+    width: 150px;
+    height: 150px
+}
+
+.img-me{
+   width: 216px;
+   height: 288px;
+}
+
+#contact-navbar{
+    background-color: silver !important;
+    font-family: 'Raleway', sans-serif;
+    font: white !important;
+}
+
+#contact-page{
+    background-color:silver
+}
+
+
+
